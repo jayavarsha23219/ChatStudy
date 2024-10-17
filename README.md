@@ -75,8 +75,8 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Program:
 ```
-Name : Anubharathi SS
-Reg No : 212223040017
+Name : Jayavarsha T
+Reg No : 212223040075
 ```
 ## Client
 ```
